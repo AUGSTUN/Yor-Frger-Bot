@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href= "http://t.me/Yor_forger_spyxfamily_bot"> <img src="https://img.shields.io/badge/Yumeko-User-green?style=for-the-badge&logo=telegram" alt=Yor_Forger on Telegram" /> </a>
-<a href="https://t.me/yorforgersupportgrp"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href= "https://t.me/yorforgersupportgrp"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/yorforgerbotupdates"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
