@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="http://t.me/Yor_forger_spyxfamily_bot"> <img src="https://tenor.com/bNBhb.gif" alt="Yor Forger on Telegram" /> </a></br>
+<a href="http://t.me/Yor_forger_spyxfamily_bot"> <img src="https://te.legra.ph/file/bd19fc0087a6bf82efb15.jpg" alt="Yor Forger on Telegram" /> </a></br>
 
 <a href="https://github.com/shiinobu/YumekoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
