@@ -35,9 +35,9 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/Rikka_Tyrant_bot"> <img src="https://img.shields.io/badge/Yumeko-User-green?style=for-the-badge&logo=telegram" alt="Rikka on Telegram" /> </a>
-<a href="https://t.me/tyranteyeeee"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/takanashirikkaupdates"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href= "http://t.me/Yor_forger_spyxfamily_bot"> <img src="https://img.shields.io/badge/Yumeko-User-green?style=for-the-badge&logo=telegram" alt=Yor_Forger on Telegram" /> </a>
+<a href="https://t.me/yorforgersupportgrp"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/yorforgerbotupdates"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
 <h2 align="center">
