@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 Yor Forger IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 YOR FORGER IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
