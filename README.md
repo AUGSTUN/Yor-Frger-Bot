@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 Rikka IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 Yor Forger IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ec749863aaffc3dbaff1a.jpg">
+  <img src="https://te.legra.ph/file/c33fa0a4ee5c48361b23e.jpg">
 </p>
 
 <p align="center">
