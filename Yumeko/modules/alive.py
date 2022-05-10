@@ -7,17 +7,17 @@ from pyrogram import __version__ as pyrover
 from Yumeko.events import register as MEMEK
 from Yumeko import telethn as tbot
 
-PHOTO = "https://telegra.ph/file/3b3641baece3d3fcded53.mp4"
+PHOTO = "https://te.legra.ph/file/ac25f8e0345c810278813.mp4"
 
 @MEMEK(pattern=("/alive"))
 async def awake(event):
   tai = event.sender.first_name
-  RIKKA = "**Moshi Moshi I'm Rikka!** \n\n"
-  RIKKA += "×**I'm Working Properly** \n\n"
-  RIKKA += "×**My Owner : [Sneha Jha](https://t.me/Sneha_UwU_OwO)** \n\n"
-  RIKKA += f"×**Telethon Version : {tlhver}** \n\n"
-  RIKKA += f"×**Pyrogram Version : {pyrover}** \n\n"
-  RIKKA += "**Thanks For Adding Me Here ❤️**"
+  YOR = "**Moshi Moshi I'm Yor Forger!** \n\n"
+  YOR += "×**I'm Working Properly** \n\n"
+  YOR += "×**My Owner : [AUGSTUN🝪ZECROX](https://t.me/Aug0felix)** \n\n"
+  YOR += f"×**Telethon Version : {tlhver}** \n\n"
+  YOR += f"×**Pyrogram Version : {pyrover}** \n\n"
+  YOR += "**Thanks For Adding Me Here ❤️**"
   BUTTON = [[Button.url("ʜᴇʟᴘ", "https://t.me/Rikka_Tyrant_bot?start=help"), Button.url("Support", "https://t.me/tyranteyeeee")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=RIKKA,  buttons=BUTTON)
 
@@ -25,5 +25,5 @@ async def awake(event):
 async def reload(event):
   tai = event.sender.first_name
   RIKKA = "✅ **bot restarted successfully**\n\n• Admin list has been **updated**"
-  BUTTON = [[Button.url("📡 ᴜᴘᴅᴀᴛᴇs", "https://t.me/tyranteyeeee")]]
-  await tbot.send_file(event.chat_id, PHOTO, caption=RIKKA,  buttons=BUTTON)
+  BUTTON = [[Button.url("📡 ᴜᴘᴅᴀᴛᴇs", "https://t.me/yorforgersupportgrp")]]
+  await tbot.send_file(event.chat_id, PHOTO, caption=YOR,  buttons=BUTTON)
