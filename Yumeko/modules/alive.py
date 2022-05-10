@@ -19,7 +19,7 @@ async def awake(event):
   YOR += f"×**Pyrogram Version : {pyrover}** \n\n"
   YOR += "**Thanks For Adding Me Here ❤️**"
   BUTTON = [[Button.url("ʜᴇʟᴘ", "https://t.me/Rikka_Tyrant_bot?start=help"), Button.url("Support", "https://t.me/tyranteyeeee")]]
-  await tbot.send_file(event.chat_id, PHOTO, caption=RIKKA,  buttons=BUTTON)
+  await tbot.send_file(event.chat_id, PHOTO, caption=YOR,  buttons=BUTTON)
 
 @MEMEK(pattern=("/reload"))
 async def reload(event):
