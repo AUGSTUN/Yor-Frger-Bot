@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-<a href="http://t.me/Yor_forger_spyxfamily_bot"> <img src="https://te.legra.ph/file/ac25f8e0345c810278813.mp4" alt="Yor Forger on Telegram" /> </a></br>
+<a href="http://t.me/Yor_forger_spyxfamily_bot"> <img src="https://te.legra.ph/file/ac25f8e0345c810278813.gif
+    " alt="Yor Forger on Telegram" /> </a></br>
 <a href="https://github.com/shiinobu/YumekoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
